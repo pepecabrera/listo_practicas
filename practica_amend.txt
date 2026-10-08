@@ -1,0 +1,2 @@
+Estoy aprendiendo git amend
+Esta línea se olvidó en el commit anterior
