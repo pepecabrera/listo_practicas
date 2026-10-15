@@ -5,3 +5,5 @@ Practicando con git diff
 Git diff te enseña los cambios no añadidos en tu repositorio local
 
 - `git fetch`: descarga los cambios remotos sin integrarlos en la rama actual.
+
+- `git pull`: descarga e integra los cambios remotos en la rama actual.
